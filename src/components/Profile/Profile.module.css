@@ -3,6 +3,7 @@
     width: 260px;
     border: 1px solid rgb(15, 15, 15);
     text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 .avatar {
@@ -54,6 +55,7 @@
 
 .quantity {
     display: block;
-    color: #1f3349;
+    color: #122236;
     margin-top: 10px;
+    font-weight: 700;
 }

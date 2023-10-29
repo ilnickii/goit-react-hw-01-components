@@ -3,6 +3,7 @@
     margin: 30px auto;
     border: 1px solid rgb(15, 15, 15);
     text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 .title {
